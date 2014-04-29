@@ -1,0 +1,52 @@
+html, body{
+    margin:0px;
+    padding:0px;
+    height: 60%;
+}
+.submain{width:93%;}
+#main{
+    width:100%;
+    height:100%;
+     background:#7f3c80;
+}
+.header{
+    float:left;
+    width:100%;
+    height:277.9%;
+    background:#7f3c80;
+   
+    
+}
+#main h1{
+    
+    font-family: Garamond,Baskerville,"Baskerville Old Face","Hoefler Text","Times New Roman",serif;
+    font-size:150%;
+    color:#FFF;
+    margin-right:17%;
+   text-align:right;
+    margin-top:0%;
+}
+.main{
+    border:1px solid #FFF;
+    margin-top: 2%;
+    border-radius: 10px;
+}
+.card_div{
+    float:left;
+    width:200px;
+    height:200px;
+    border-radius: 100px;
+    background:#330033;
+}
+
+.graphic_div{
+    float:left;
+    width:200px;
+    height:200px;
+    border-radius: 100px;
+    background:#330033;
+}
+
+
+
+
